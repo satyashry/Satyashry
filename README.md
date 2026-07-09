@@ -41,10 +41,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="55"/>
 </p>
-<hr style="margin: 8px 0; border: 0.5px solid #333;">
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyashry&theme=tokyonight&hide_border=true&background=00000000&card_width=500" height="140"/>
-</p>
+
 <hr style="margin: 8px 0; border: 0.5px solid #333;">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=50&section=header&text=CONNECT%20WITH%20ME&fontSize=35&fontColor=00D9FF&fontAlignY=65&fontFamily=Orbitron&animation=fadeIn" />
